@@ -1,5 +1,4 @@
 #include <immintrin.h>
-#include <iostream>
 #include <cmath>
 
 struct vector4 {
